@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angelll24
 - 🌱 I’m currently learning editar
-- 😄 Pronouns: mari
+- 🎀 mari
 
 <!---
 Angelll24/Angelll24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
